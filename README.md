@@ -1,4 +1,4 @@
-node-get-users [![Build Status](https://travis-ci.org/Jayin/node-get-users.svg)](https://travis-ci.org/Jayin/node-get-users)
+node-get-users
 =============
 > get all users in you os except Windows
 
