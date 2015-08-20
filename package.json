@@ -1,0 +1,21 @@
+{
+  "name": "node-get-users",
+  "version": "1.0.0",
+  "description": "get all users ",
+  "main": "index.js",
+  "repository": "https://github.com/Jayin/node-get-users.git",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "user",
+    "users"
+  ],
+  "author": "Jayin Ton",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^2.2.5",
+    "should": "^7.0.4"
+  }
+}
